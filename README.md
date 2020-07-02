@@ -8,7 +8,7 @@ pprint
 lxml(xpath)
 ## 汇总
 
-### 通用下载器
+### 通用下载器 地址：https://github.com/trammels-zjx/spiders/blob/master/%E4%B8%8B%E8%BD%BD%E5%99%A8.py
 
 图片下载器
 
