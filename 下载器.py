@@ -1,3 +1,4 @@
+# 图片下载器
 def image(url):
     response = requests.get(url)
     # 获取图片的二进制文本
